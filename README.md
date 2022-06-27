@@ -24,6 +24,17 @@
 
 ## Description
 
+# Instrucciones !!!!!
+Por cuestiones de tiempo no puede desarrollar toda las funcionalidades del challenge, es esta version solo tiene el login  y signup funcional, la API para la funcionalida del "TodoList" nadamas esta las pruebas que estaba realizando las cuales no estan completas en su totalidad.
+
+Para ejecutar este repositorio es necesario tener installado de manera local MongoDB ya que se crea en la instancia local de la computadora donde se este realizando las pruebas, y tambien es necesario tener el puerto 3001 disponible.
+
+Para ejecutar el repositorio usar los siguiente comandos:
+- npm install
+- npm run start:dev
+
+Gracias por el tiempo !!!
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
